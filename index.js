@@ -16,5 +16,3 @@ links.forEach(link=>{
         document.getElementById(section_current).classList.toggle('activate-float');
     });
 });
-
-
